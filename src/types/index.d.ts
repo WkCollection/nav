@@ -97,7 +97,7 @@ export interface ISettings {
   title: string
   description: string
   keywords: string
-  theme: 'Side'
+  theme: ThemeType
   openSEO: boolean
   appTheme: ThemeType
   footerContent: string
