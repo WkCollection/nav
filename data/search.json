@@ -9,7 +9,7 @@
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/baidu.svg",
+    "icon": "https://tse1-mm.cn.bing.net/th/id/OIP-C.RPSxv5isWsNFJ7SMoChHKwHaHa?rs=1&pid=ImgDetMain",
     "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
@@ -17,21 +17,21 @@
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/google.svg",
+    "icon": "https://ts1.cn.mm.bing.net/th/id/R-C.4518d55739a23cd5fb291a707a7f9a1d?rik=kHUodiV9egeHdA&riu=http%3a%2f%2fpro.statics.logoqs.techuangyi.com%2f2018%2f01%2f09%2f7dd82f188578a05e3ae38bf3b19d0918.jpg&ehk=V5glYToYXrYYPWx7LEFfNAc5VRVBt5TtSlch%2fLdcgjQ%3d&risl=&pid=ImgRaw&r=0",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/bing.svg",
+    "icon": "https://img.3dmgame.com/uploads/images/news/20201007/1602077049_814329.jpg",
     "blocked": false,
     "isInner": false
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav-web@image/github.svg",
+    "icon": "https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png",
     "placeholder": "Search GitHub",
     "blocked": false,
     "isInner": false
